@@ -32,6 +32,10 @@ TextMeshPro needed.
 2. Inside of the "NTFY" Folder you will find the Prefab.
 3. Drag NTFY (Prefab) into Scene.
 4. Accept to Import TextMeshPro!
+5. By Default, included in Prefab is a "Main Camera" object, ensure to delete this- 
+Inside of the prefab locate "Canvas"; drag your existing "Main Camera" into the slot.
+
+![NTFY_ExampleCamera](https://user-images.githubusercontent.com/77287432/188259161-c9dd79ed-61b6-4b22-847b-4df892c00806.PNG)
 
 ## How it works
 When a Player Joins, Alert; pops up white!
